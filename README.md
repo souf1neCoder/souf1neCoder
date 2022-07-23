@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soufiane M'channa</h1>
-<h3 align="center">Passionate Full Stack Web Developer</h3>
+<h3 align="center">Passionate Full Stack Web Developer 🔥 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souf1necoder&label=Profile%20views&color=0e75b6&style=flat" alt="souf1necoder" /> </p>
 
@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/soufianemchanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soufianemchanna" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/soufiane m'channa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soufiane m'channa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/soufiane-mchanna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soufiane-mchanna/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
