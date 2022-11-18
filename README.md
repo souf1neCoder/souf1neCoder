@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/soufianemchanna" target="blank"><img src="https://img.shields.io/twitter/follow/soufianemchanna?logo=twitter&style=for-the-badge" alt="soufianemchanna" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel 9**
+- 🌱 You can call me a **Laraveler**
 
 - 👨‍💻 All of my projects are available at [https://github.com/souf1neCoder](https://github.com/souf1neCoder)
 
